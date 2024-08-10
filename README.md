@@ -10,15 +10,15 @@
 
   <p style="margin-bottom: 40px;">
       <a href="https://github.com/Rohit-64" target="_blank" style="text-decoration: none; color: #3498db; margin-right: 10px;">
-        <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub"> GitHub
+        <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub">
       </a>
       |
       <a href="https://www.linkedin.com/in/rohit-das-in" target="_blank" style="text-decoration: none; color: #3498db; margin-left: 10px;">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"> LinkedIn
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
       </a>
       |
       <a href="mailto:das201706@gmail.com" target="_blank" style="text-decoration: none; color: #3498db; margin-left: 10px;">
-        <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail" alt="Email"> Email
+        <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail" alt="Email">
       </a>
     </p>
   </div>
@@ -41,32 +41,37 @@
 <h2 style="color: #2c3e50; margin-bottom: 20px;">🚀 Projects</h2>
 <ul style="margin-bottom: 20px;">
   <li>
-    <a href="https://github.com/Rohit-64/Loan-Eligibility-Prediction" target="_blank" style="text-decoration: none; color: #3498db;">
+    <a href="https://github.com/Rohit-64/Predicting-Loan-Eligibility-Using-Machine-Learning-Algorithms" target="_blank" style="text-decoration: none; color: #3498db;">
       Loan Eligibility Prediction Model
     </a> - Built a machine learning model to predict loan eligibility based on customer data.
   </li>
   <li>
-    <a href="https://github.com/Rohit-64/Hotel-Revenue-Dashboard" target="_blank" style="text-decoration: none; color: #3498db;">
+    <a href="https://github.com/Rohit-64/FAQ-Chatbot---NIC-Tripura" target="_blank" style="text-decoration: none; color: #3498db;">
+    FAQ Chatbot
+    </a> - Created an FAQ chatbot using Phi-2 LLM, Python, and PostgreSQL, focusing on providing automated responses based on DBT transactions data.
+  </li>
+  <li>
+    <a href="https://github.com/Rohit-64/Hotel-Revenue-Insights" target="_blank" style="text-decoration: none; color: #3498db;">
       Hotel Revenue Insights
     </a> - A Power BI dashboard project analyzing hotel revenue data to provide actionable insights.
   </li>
   <li>
-    <a href="https://github.com/Rohit-64/World-Cup-XI" target="_blank" style="text-decoration: none; color: #3498db;">
+    <a href="https://github.com/Rohit-64/WorldCupXI-Crafting-the-Ultimate-Dream-Team" target="_blank" style="text-decoration: none; color: #3498db;">
       World Cup XI
     </a> - A project focused on selecting an ideal World Cup XI based on player performance data.
   </li>
   <li>
-    <a href="https://github.com/Rohit-64/Darkness-Detector" target="_blank" style="text-decoration: none; color: #3498db;">
+    <a href="https://github.com/Abhishek1problemsolver/Darkness_Detector" target="_blank" style="text-decoration: none; color: #3498db;">
       Darkness Detector
     </a> - A project using an Arduino Uno and LDR sensor to detect darkness and activate an LED.
   </li>
   <li>
-    <a href="https://github.com/Rohit-64/Audio-Signal-Processing" target="_blank" style="text-decoration: none; color: #3498db;">
+    <a href="https://github.com/Rohit-64/Audio-Signal-Processing-using-MATLAB" target="_blank" style="text-decoration: none; color: #3498db;">
       Audio Signal Processing Using MATLAB
     </a> - A MATLAB-based project for processing and analyzing audio signals.
   </li>
   <li>
-    <a href="https://github.com/Rohit-64/Sudoku-Solver" target="_blank" style="text-decoration: none; color: #3498db;">
+    <a href="https://github.com/Rohit-64/Creating-a-Sudoku-Solver-with-Java" target="_blank" style="text-decoration: none; color: #3498db;">
       Sudoku Solver
     </a> - Developed a Sudoku solver using Java to automatically solve puzzles.
   </li>
