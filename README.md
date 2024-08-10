@@ -6,18 +6,18 @@
 <body style="font-family: Arial, sans-serif; color: #333; background-color: #f8f9fa; padding: 20px; border-radius: 10px;">
 
   <div style="text-align: center;">
-    <h1 style="color: #2c3e50; margin-bottom: 20px;">Rohit-64</h1>
+    <h1 style="color: #2c3e50; margin-bottom: 20px;">Rohit Rabi Das</h1>
 
   <p style="margin-bottom: 40px;">
       <a href="https://github.com/Rohit-64" target="_blank" style="text-decoration: none; color: #3498db; margin-right: 10px;">
         <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub">
       </a>
-      |
-      <a href="https://www.linkedin.com/in/rohit-das-in" target="_blank" style="text-decoration: none; color: #3498db; margin-left: 10px;">
+      
+  <a href="https://www.linkedin.com/in/rohit-das-in" target="_blank" style="text-decoration: none; color: #3498db; margin-left: 10px;">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
       </a>
-      |
-      <a href="mailto:das201706@gmail.com" target="_blank" style="text-decoration: none; color: #3498db; margin-left: 10px;">
+      
+  <a href="mailto:das201706@gmail.com" target="_blank" style="text-decoration: none; color: #3498db; margin-left: 10px;">
         <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail" alt="Email">
       </a>
     </p>
